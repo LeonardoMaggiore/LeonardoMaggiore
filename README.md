@@ -17,3 +17,8 @@ My current work includes Euclid DR1/DR2 primary cosmology, cross-correlations wi
 -"Voids as probes of 2040s Cosmology: Testing Gravity and Dark Energy with the void-galaxy cross-correlation function" (G. Degni et al. 2026, ESO Expanding Horizons initiative 2025-Call for White Papers)
 
 -"Beyond the ΛCDM model: probing the Universe’s Framework with Cosmic Void Counts" (S. Contarini et al. 2026, ESO Expanding Horizons initiative 2025-Call for White Papers)
+
+📫 My emails: 
+
+-Institutional: L.Maggiore@sms.ed.ac.uk
+-personal: leo.mgr95@gmail.com
